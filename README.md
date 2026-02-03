@@ -8,7 +8,8 @@ Utiliza RAG (Retrieval-Augmented Generation) com Streamlit, LangChain, Groq e Ch
 ## Como rodar localmente
 
 ```bash
-git clone https://github.com/Jean-138/assistente-juridico-com-rag.git
-cd assistente-juridico-com-rag
+git clone https://github.com/Jean-138/assistente_juridico_com_rag.git
+cd assistente_juridico_com_rag
 pip install -r requirements.txt
 streamlit run assistente_juridico_com_rag.py
+
